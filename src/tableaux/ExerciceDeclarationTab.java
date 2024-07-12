@@ -8,6 +8,7 @@ public class ExerciceDeclarationTab {
 		//Déclaration tableau
 		int[] tab = {8,-7,12,1,-2,14,17,9};
 		
+		//Affiche des éléments du tableau
 		System.out.println(tab[0]);
 		System.out.println(tab.length);
 		System.out.println(tab[7]);
