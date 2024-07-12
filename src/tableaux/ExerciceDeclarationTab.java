@@ -11,7 +11,7 @@ public class ExerciceDeclarationTab {
 		//Affiche des éléments du tableau
 		System.out.println(tab[0]);
 		System.out.println(tab.length);
-		System.out.println(tab[7]);
+		System.out.println(tab[tab.length-1]);
 		
 	}
 
